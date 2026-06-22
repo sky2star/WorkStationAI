@@ -1,0 +1,3 @@
+# 安装包通过 GitHub Releases 分发，不纳入 git 仓库
+*.exe
+*.blockmap
